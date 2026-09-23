@@ -2,8 +2,6 @@
 
 Computer Science Graduate • Aspiring Data Analyst
 
-🌍 Istanbul, Turkey
-
 ## 🛠️ Technologies & Tools
 
 <p>
