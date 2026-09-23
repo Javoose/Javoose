@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Furkan! 👋
 
-<!--
-**Javoose/Javoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate • Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🌍 Istanbul, Turkey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="Microsoft SQL Server" title="Microsoft SQL Server"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Microsoft Excel" title="Microsoft Excel"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code" title="Visual Studio Code"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
+</p>
+
+## 📫 Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/javoose/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yavuzfurkan1998.fy@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" height="45" alt="Gmail" title="Gmail"/>
+  </a>
+</p>
