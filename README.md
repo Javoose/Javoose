@@ -1,6 +1,6 @@
 # Hi there, I'm Furkan! 👋
 
-Computer Science Graduate • Aspiring Data Analyst
+Computer Science Graduate • Data Analyst
 
 ## 🛠️ Technologies & Tools
 
