@@ -9,6 +9,8 @@ Computer Science Graduate • Aspiring Data Analyst
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Microsoft Excel" title="Microsoft Excel"/>
   &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI" title="Power BI"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code" title="Visual Studio Code"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
